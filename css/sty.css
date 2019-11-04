@@ -9,9 +9,10 @@ p {
   font-size: 15px;
 }
 #sectionA {
+  height: 100vh;
   background-image: url(../assets/backgrounds/h_img.jpg);
-  background-position: center;
-  background-size: 100%,100%;
+  background-position: relative;
+  background-size:cover;
   background-repeat: no-repeat;
   color: white;
 }
@@ -37,27 +38,34 @@ div {
 }
 #sectionD{
   background-image: url(../assets/backgrounds/c_image.jpg);
-  background-size: 100%,100%;
+  background-size: 100%;
   background-repeat: no-repeat;
   text-align: center;
-  background-position: center;
+  background-position:cover
+  ;
+  height: 500px;
 }
 input {
-  border-radius: 5px;
+  border-radius: 50px;
 }
 #name{
-  width: 35%;
+  width: 50%;
   background: rgb(0, 0, 0);
   background: rgba(0, 0, 0, 0.5);
 }
 #textarea {
   border-radius: 5px;
+  padding: 30px;
+  border: 20px;
+  margin: 30px;
+  width: 100%;
   background: rgb(0, 0, 0);
   background: rgba(0, 0, 0, 0.5);
   margin-top: 1%;
 }
 #email{
-  width: 35%;
+  margin-top: 1%;
+  width: 50%;
   background: rgb(0, 0, 0);
   background: rgba(0, 0, 0, 0.5);
 }
@@ -76,14 +84,26 @@ input {
   margin-top: -10%;
 }
 #img1{
-  width: 100%;
+  /* width: 10%; */
+  text-align: center;
+  text-size-adjust: 5%;
+
+  background-repeat: no-repeat;
 }
 #img2{
-  width: 100%;
+  /* width: 5%; */
+  text-align: center;
+  text-size-adjust: 5%;
 }
 #pl{
   text-align: center;
   display: none;
+}
+#submit{
+  text-align: center;
+  margin-left:50%;
+  margin-right: 50%;
+
 }
 .design-hidden {
   display: none;
