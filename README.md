@@ -27,4 +27,4 @@
 
 ##   License.
 #### MIT Licence
-#### v3.0 Copyright (c) 2019 Trinity.
+#### Copyright (c) 2019 Trinity.
