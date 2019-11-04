@@ -1,6 +1,4 @@
-lines (18 sloc)  455 Bytes
- 
-$(document).ready(function() {
+ $(document).ready(function() {
   $(".clickable1").click(function() {
     $(".design-hidden").toggle();
     $(".design-showing").toggle();
