@@ -33,9 +33,9 @@ div[id="sectionC"] {
   background-size: 100%,100%;
   background-repeat: no-repeat;
   text-align: center;
-  color:goldenrod;
+  color:white;
 }
-div[id="4"] {
+div[id="sectionD"] {
   background-image: url(../assets/backgrounds/c_image.jpg);
   background-size: 100%,100%;
   background-repeat: no-repeat;
@@ -99,4 +99,7 @@ p[id="pl"] {
 }
 .col-md-3 img {
   width: 210px;
+}
+.col-md-3{
+  padding:15px;
 }
