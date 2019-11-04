@@ -26,4 +26,5 @@
 ##### trinityrtime@gmail.com.
 
 ##   License.
-#### GNU General Public License v3.0 Copyright (c) 2019 Trinity.
+#### MIT Licence
+#### v3.0 Copyright (c) 2019 Trinity.
