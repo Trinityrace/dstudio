@@ -1,7 +1,7 @@
 # DELANI STUDIO WEB APLLICATION.
 
 ###  4/11/2019
-###  By Trinityrace
+###  By Trinity.
 
 ##   DESCRIPTION
    This is an app for the delani studio
