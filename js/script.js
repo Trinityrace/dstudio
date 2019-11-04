@@ -1,7 +1,9 @@
  $(document).ready(function() {
-  $(".clickable1").click(function() {
-    $(".design-hidden").toggle();
-    $(".design-showing").toggle();
+  $(".clickable1").click(function()
+   {
+   $("").slideToggle("slow");
+   $(".design-hidden").toggle();
+   $(".design-showing").toggle();
   });
 });
 $(document).ready(function() {
